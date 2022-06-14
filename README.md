@@ -1,4 +1,4 @@
-## Задача №3 - Postman Echo
+## Задача №3 - Postman Echo[![Build status](https://ci.appveyor.com/api/projects/status/ge2bs9ylf20ben25?svg=true)](https://ci.appveyor.com/project/SvarogDoc/postmanecho)
 
 **Важно**: эту задачу нужно выполнять в отдельном репозитории
 
